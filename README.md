@@ -1,16 +1,21 @@
-### Hi there 👋
+```bash
+./github post --make-profile-pinned --content \
+```
 
-<!--
-**allan-walpy/allan-walpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`he/him` is a white cis male \
 
-Here are some ideas to get you started:
+uses `english` and ~~`russian`~~ languages \
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+on `autistic spectrum` \
+
+called vocally as `alan volpi`/`volopai` \
+
+currently in ~~fascistic `russia`~~ \
+
+occasionally makes angry_`antifa`_noises \
+
+with userpic by [buffalobellie](https://twitter.com/buffalobellie) at [Cool Kid Maker](https://picrew.me/image_maker/148413) ;
+
+```bash
+exit 0
+```
