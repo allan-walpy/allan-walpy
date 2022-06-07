@@ -6,7 +6,7 @@
 
 uses `english` and ~~`russian`~~ languages \
 
-on `autistic spectrum` \
+on `autistic` spectrum \
 
 called vocally as `alan volpi`/`volopai` \
 
