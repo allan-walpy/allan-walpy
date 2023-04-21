@@ -1,20 +1,21 @@
 ```bash
 ./github post --make-profile-pinned --content \
 ```
+allan_walpy - an #random #left #dude \
 
-`he/him` is a white cis male \
+`they/he` are an nb \
 
-uses `english` and ~~`russian`~~ languages \
+uses `english` and russian languages \
 
-on `autistic` spectrum \
+typical `autistic` in stealth \
+
+pronounces as `alan volpi` \
 
 called vocally as `alan volpi`/`volopai` \
 
-currently in ~~fascistic `russia`~~ \
+currently in `403 forbidden` \
 
-occasionally makes angry_`antifa`_noises \
-
-with userpic by [buffalobellie](https://twitter.com/buffalobellie) at [Cool Kid Maker](https://picrew.me/image_maker/148413) ;
+pfp by [buffalobellie](https://twitter.com/buffalobellie) at [Cool Kid Maker](https://picrew.me/image_maker/148413) ;
 
 ```bash
 exit 0
